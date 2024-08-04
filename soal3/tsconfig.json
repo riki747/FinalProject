@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "es2016",
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "lib": ["es2015", "dom"] // Tambahkan "es2015" atau versi yang lebih baru
+    }
+  }
+  
